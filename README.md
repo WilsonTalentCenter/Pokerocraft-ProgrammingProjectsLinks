@@ -9,4 +9,7 @@ PainOS - https://github.com/SmartKirb99/PainOS/
  - An Operating System made within the Godot Game Engine
 
 Godot Launcher - https://github.com/SmartKirb99/Godot-Launcher
-- A Basic Launcher made via Java Swing to allow you to easily run all your Godot Versions that YOU download.
+- A Basic Launcher made via Java Swing to allow you to easily run all your Godot Versions that $\color{red}\text{YOU}$ download.
+
+FRC Map - https://github.com/SmartKirb99/Map-of-all-Robotics-Teams
+- A Map of quite a few FRC teams, easily able to add more teams through JSON formatting.
